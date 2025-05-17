@@ -6,7 +6,7 @@
     Group Members: Ethan Price (eprice38), Alex Pham (amtpham)
   </li>
   <li>
-    App Description: This app serves cat facts and let's the user store them.
+    App Description: This app serves cat facts and let's the user choose if they want to store their name next to the fact for all future site visitors to see.
   </li>
   <li>
     Youtube Video Link: (https://youtu.be/W-w7Tm5DcoI?si=scQA3efGOvswWykv)
@@ -18,6 +18,6 @@
     Contact Email: eprice38@terpmail.umd.edu
   </li>
   <li>
-    Deployed App Link:<b> UNFINISHED</b>
+    Deployed App Link: <a href="https://cmsc335finalproj-uc9b.onrender.com/" target="__blank">https://cmsc335finalproj-uc9b.onrender.com/</a>
   </li>
 </ol>

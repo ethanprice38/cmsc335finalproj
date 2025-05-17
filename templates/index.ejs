@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Facts</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <h1>Cat Facts!</h1>
+
+    <p><%= fact %></p>
+
+    <form action="/submit" method="POST">
+      <input type="text" name="name" placeholder="Your name" required />
+      <input type="hidden" name="fact" value="<%= fact %>" />
+      <label>
+        <input type="checkbox" name="saveFact" value="yes" />
+        Save this fact with my name
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+
+    <h2>Saved Facts</h2>
+    <ul>
+      <% savedFacts.forEach(entry => { %>
+        <li><strong><%= entry.name %></strong> - "<%= entry.fact %>" at <%= entry.time.toLocaleString() %></li>
+      <% }) %>
+    </ul>
+  </body>
+</html>

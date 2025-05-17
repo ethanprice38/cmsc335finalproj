@@ -1,0 +1,22 @@
+{
+  "name": "phamprice_335groupproject",
+  "version": "1.0.0",
+  "description": "<ol>\r   <li>\r   Submitted by: Alex Pham (directory id: [PUT DirID HERE ALEX])<b> UNFINISHED</b>\r   </li>\r   <li>\r     Group Members: Ethan Price (eprice38), Alex Pham (ALEX PUT DirID HERE) <b> UNFINISHED</b>\r   </li>\r   <li>\r     App Description: This app serves cat facts and let's the user store them.\r   </li>\r   <li>\r     Youtube Video Link:<b> UNFINISHED</b>\r   </li>\r   <li>\r     APIs: meowfacts (https://github.com/wh-iterabb-it/meowfacts)\r   </li>\r   <li>\r     Contact Email: eprice38@terpmail.umd.edu\r   </li>\r   <li>\r     Deployed App Link:<b> UNFINISHED</b>\r   </li>\r </ol>",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "mongodb": "^6.16.0",
+    "node-fetch": "^2.7.0",
+    "npm": "^11.4.0"
+  }
+}

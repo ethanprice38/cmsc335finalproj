@@ -1,6 +1,6 @@
 <ol>
   <li>
-  Submitted by: Alex Pham (directory id: [PUT DirID HERE ALEX])<b> UNFINISHED</b>
+  Submitted by: Ethan Price (directory id: eprice38)
   </li>
   <li>
     Group Members: Ethan Price (eprice38), Alex Pham (amtpham)
@@ -9,7 +9,7 @@
     App Description: This app serves cat facts and let's the user store them.
   </li>
   <li>
-    Youtube Video Link:<b> UNFINISHED</b>
+    Youtube Video Link: (https://youtu.be/W-w7Tm5DcoI?si=scQA3efGOvswWykv)
   </li>
   <li>
     APIs: meowfacts (https://github.com/wh-iterabb-it/meowfacts)

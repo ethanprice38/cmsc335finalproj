@@ -1,3 +1,6 @@
+# Unfortunately, this site got nuked as of 26/08/2026 :(
+
+
 <ol>
   <li>
   Submitted by: Ethan Price (directory id: eprice38)
